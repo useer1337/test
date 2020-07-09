@@ -1,0 +1,9 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <ns3:getUserRequestType xmlns:ns2="http://www.hostco.ru/reguser/types" xmlns:ns3="http://www.hostco.ru/reguser"
+                                ns2:token="D468E929-A94E-4F16-A7D2-DB414EC53071">
+            <ns2:SNILS>28752377117</ns2:SNILS>
+        </ns3:getUserRequestType>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
